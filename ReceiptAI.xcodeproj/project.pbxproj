@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		357C59C42098F976009CE0FC /* PreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357C59C32098F976009CE0FC /* PreviewViewController.swift */; };
 		357FC2222098E22E00B731C0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357FC2212098E22E00B731C0 /* AppDelegate.swift */; };
 		357FC2242098E22E00B731C0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357FC2232098E22E00B731C0 /* ViewController.swift */; };
 		357FC2272098E22E00B731C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 357FC2252098E22E00B731C0 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		357C59C32098F976009CE0FC /* PreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewViewController.swift; sourceTree = "<group>"; };
 		357FC21E2098E22E00B731C0 /* ReceiptAI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReceiptAI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		357FC2212098E22E00B731C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		357FC2232098E22E00B731C0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				357FC2212098E22E00B731C0 /* AppDelegate.swift */,
 				357FC2232098E22E00B731C0 /* ViewController.swift */,
 				357FC2252098E22E00B731C0 /* Main.storyboard */,
+				357C59C32098F976009CE0FC /* PreviewViewController.swift */,
 				357FC2392098E71700B731C0 /* BillPage.storyboard */,
 				357FC23B2098E75900B731C0 /* CameraPage.storyboard */,
 				357FC2332098E25500B731C0 /* ChartPage.storyboard */,
@@ -157,6 +160,7 @@
 				357FC2242098E22E00B731C0 /* ViewController.swift in Sources */,
 				357FC2372098E37D00B731C0 /* ChartPageControllerViewController.swift in Sources */,
 				357FC2222098E22E00B731C0 /* AppDelegate.swift in Sources */,
+				357C59C42098F976009CE0FC /* PreviewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

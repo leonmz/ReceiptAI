@@ -33,7 +33,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jlZ-GU-E6y">
                                 <rect key="frame" x="328" y="32" width="31" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button" image="chart2"/>
+                                <state key="normal" title="Button" image="chart"/>
                             </button>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="QsK-FD-sIC">
                                 <rect key="frame" x="16" y="70" width="343" height="29"/>
@@ -78,6 +78,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="chart2" width="30" height="30"/>
+        <image name="chart" width="30" height="30"/>
     </resources>
 </document>
